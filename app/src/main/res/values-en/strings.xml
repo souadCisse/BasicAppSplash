@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="nom_d_utilisateur">Username</string>
+    <string name="mot_de_passe">Password</string>
+    <string name="s_identifier">Sign in</string>
+    <string name="compte">Account</string>
+</resources>
